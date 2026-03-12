@@ -1,4 +1,6 @@
-print("Hello from Jenkins!")
-a = 10
-b = 20
-print("Sum:", a + b)
+print("Hello from Jenkins")
+
+a = 5
+b = 7
+
+print("Sum =", a + b)
